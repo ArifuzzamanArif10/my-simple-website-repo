@@ -1,15 +1,8 @@
 div{
     background-color: tomato;
-    padding: 17px;
-    margin: 10px ;
-    height: 180px;
-    width: 280px;
-     border-radius: 43px; 
-    background-image: ;
+    padding: 10px;
+    margin-bottom: 15px;
+    
+    
     
 }
-<style>
- div{
-    background-image: url(IMG_0230.JPG);
- }
-</style>
